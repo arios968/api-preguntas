@@ -39,15 +39,8 @@
             "c": "<li>",
             "d": "<list>",
             "correct": "b"
-        },
-        {
-            "question": "¿Qué etiqueta de HTML nos sirve para incluir archivos de JavaScript?",
-            "a": "<style>",
-            "b": "<script>",
-            "c": "<main>",
-            "d": "<header>",
-            "correct": "b"
         }
+        
     ],
     "questioncss": [
         {
@@ -66,14 +59,7 @@
             "d": "//node_modules",
             "correct": "b"
         },
-        {
-            "question": "¿Cómo se cambia el valor del margen derecho de un elemento?",
-            "a": "margin-right",
-            "b": "right-margin",
-            "c": "marginright",
-            "d": "Ninguna de las anteriores",
-            "correct": "a"
-        },
+        
         {
             "question": "¿Cuál es la forma más eficiente de aplicar estilos CSS en un documento HTML?",
             "a": "En línea",
